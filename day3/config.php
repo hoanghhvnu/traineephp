@@ -6,3 +6,4 @@ class config
     const password = "";
     const dbname   = "day3";
 }
+?>
